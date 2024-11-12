@@ -2,7 +2,7 @@
 This project is a simple Docker setup that creates a Docker image. When this image is run as a container, it prints **"Hello, Captain!"** to the console.
 
 ## Project URL
-This is a local Docker project from the roadmap.sh. You can find the project details [here](https://example.com/project-details).
+This is a local Docker project from the roadmap.sh. You can find the project details [here](https://roadmap.sh/projects/basic-dockerfile).
 ## About
 This project is designed to demonstrate how to create a basic Docker image using a lightweight Alpine Linux base image. It includes a simple Dockerfile that runs an `echo` command to display "Hello, Captain!" when the container is started.
 
